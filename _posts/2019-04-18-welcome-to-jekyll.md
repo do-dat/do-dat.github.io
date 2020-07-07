@@ -1,6 +1,8 @@
 ---
 title: "Welcome to Jekyll!"
 date: 2019-04-18T15:34:30-04:00
+header:
+  image: https://live.staticflickr.com/8084/8396909762_813a2b1829_h.jpg
 categories:
   - blog
 tags:
