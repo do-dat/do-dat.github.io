@@ -1,9 +1,8 @@
 ---
 permalink: /about/
 title: "About"
-
-![Image](https://img.wowtv.co.kr/wowtv_news/dnrs/20200619/2020061913530206313d3244b4fed182172186127.jpg)
 ---
+![Image](https://img.wowtv.co.kr/wowtv_news/dnrs/20200619/2020061913530206313d3244b4fed182172186127.jpg)
 
 Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
 
