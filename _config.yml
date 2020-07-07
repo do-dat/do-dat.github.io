@@ -66,7 +66,10 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/jang_choco"
-
+      
+header:
+  teaser: /assets/images/bio-photo.jpg
+  
 footer:
   links:
     - label: "GitHub"
