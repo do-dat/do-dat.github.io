@@ -1,9 +1,9 @@
 main:
-  - title: "Posts"
+  - title: "Download"
     url: /posts/
-  - title: "Categories"
+  - title: "Examples"
     url: /categories/
-  - title: "Tags"
+  - title: "FAQ"
     url: /tags/
-  - title: "About"
+  - title: "CDSL"
     url: /about/
