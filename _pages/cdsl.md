@@ -11,5 +11,5 @@ title: "Control and Dynamic Systems Lab"
 
 ### Research Interest
 
-Our research interest is about “control theory”. Two key words that represent our research simply well might be “control” and “dynamics”. (See also the Wikipedia’s definition of “control theory”, click here. Introduction of the IEEE Control System Society and its report named “The impact of control technology (2nd ed.)” might be helpful to understand the “control”.
+Our research interest is about “control theory”.
 
