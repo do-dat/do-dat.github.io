@@ -5,7 +5,7 @@ title: "Control and Dynamic Systems Lab"
 
 ### History
 
-The Lab. was founded in 1989 by Prof. Jin Heon Seo with the name “Automatic Control Lab”. The name was changed in 1995 to “Optimal Robust Control Lab” and finally to “Control and Dynamic Systems Lab” in 2006. Prof. Hyungbo Shim joined the Lab in 2003. The Lab has produced more than 100 of Ph.D’s and Master’s who are playing active roles currently in their respective fields of interests.
+[The Lab](https://post.cdsl.kr/) was founded in 1989 by Prof. Jin Heon Seo with the name “Automatic Control Lab”. The name was changed in 1995 to “Optimal Robust Control Lab” and finally to “Control and Dynamic Systems Lab” in 2006. Prof. Hyungbo Shim joined the Lab in 2003. The Lab has produced more than 100 of Ph.D’s and Master’s who are playing active roles currently in their respective fields of interests.
 
 ### Research Interest
 
