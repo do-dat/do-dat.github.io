@@ -16,9 +16,8 @@
 logo: "/assets/images/cdsl-logo.PNG"
 title: DO-DAT
 email: hmchang@cdsl.kr
-description: >- # this means to ignore newlines until "baseurl:"
-  DO-DAT Disturbance Observer - Design & Analysis Toolbox
-# twitter_username: username
+url: "https://do-dat.github.io"
+baseurl: ""
 github_username: do-dat
 minimal_mistakes_skin: default
 search: true
