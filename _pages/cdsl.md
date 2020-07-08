@@ -1,8 +1,8 @@
 ---
 permalink: /cdsl/
 title: "Control and Dynamic Systems Lab"
+image: https://i0.wp.com/post.cdsl.kr/wp-content/uploads/2018/02/CDSL_s2-300x137.png
 ---
-!(cdsl logo)(https://i0.wp.com/post.cdsl.kr/wp-content/uploads/2018/02/CDSL_s2-300x137.png)
 
 ### History
 
