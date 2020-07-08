@@ -6,7 +6,7 @@ permalink: /download/
 ---
 DO-DAT is free of charge to use and is openly distributed.
 
-Copyright owned by Hamin Chang.
+For installation, see the [Install](https://).
 
 ### Latest release
 [Download latest DO-DAT](https://post.cdsl.kr/)
