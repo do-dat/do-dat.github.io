@@ -1,6 +1,6 @@
 ---
 title: "Download"
 permalink: /download/
-layout: posts
+<!--layout: posts-->
 author_profile: true
 ---
