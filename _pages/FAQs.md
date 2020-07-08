@@ -1,6 +1,6 @@
 ---
-title: "FAQ"
-permalink: /FAQs/
+title: "Contact"
+permalink: /contact/
 <!-- layout: tags -->
-<!-- author_profile: true -->
+author_profile: true
 ---
