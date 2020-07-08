@@ -1,6 +1,8 @@
 main:
   - title: "Download"
     url: /download/
+  - title: "Install"
+    url: /install/
   - title: "Examples"
     url: /examples/
   - title: "FAQ"
