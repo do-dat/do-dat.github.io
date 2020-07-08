@@ -3,9 +3,7 @@ permalink: /cdsl/
 title: "Control and Dynamic Systems Lab"
 ---
 
-<p align="center">
-  <img src="https://i0.wp.com/post.cdsl.kr/wp-content/uploads/2018/02/CDSL_s2-300x137.png" alt="Sublime's custom image"/>
-</p>
+<img src="https://i0.wp.com/post.cdsl.kr/wp-content/uploads/2018/02/CDSL_s2-300x137.png" alt="Sublime's custom image"/>
 
 ### History
 
