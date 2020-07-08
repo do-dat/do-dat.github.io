@@ -6,7 +6,7 @@ permalink: /download/
 ---
 DO-DAT is free of charge to use and is openly distributed.
 
-For installation, see the [Install](https://).
+For installation, see the [Install](https://do-dat.github.io/install/).
 
 ### Latest release
 [Download latest DO-DAT](https://post.cdsl.kr/)
