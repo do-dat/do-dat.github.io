@@ -1,6 +1,6 @@
 ---
-title: "Posts by Tag"
-permalink: /tags/
+title: "FAQ"
+permalink: /FAQs/
 layout: tags
 author_profile: true
 ---
