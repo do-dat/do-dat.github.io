@@ -1,7 +1,7 @@
 ---
 title: "Download"
 permalink: /download/
-<!--layout: posts-->
+author_profile: false
 ---
 DO-DAT is free of charge to use and is openly distributed.
 
