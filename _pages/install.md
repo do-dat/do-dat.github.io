@@ -13,7 +13,8 @@ author_profile: false
 ./DO_DAT/functions
 ./DO_DAT/operators
 ```
-__`./DO_DAT/functions` directory contains main functions of DO-DAT__.
+
+`./DO_DAT/functions` directory contains main functions of DO-DAT.
 
 `./DO_DAT/operators` directory includes several basic operators used in the main functions (You don't need to look into this folder!).
 
