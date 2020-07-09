@@ -22,5 +22,5 @@ author_profile: false
 
 To test your installation, run the example code `/DO_DAT/functions/main.m`.
 
-DO-DAT is mainly developed on a Windows machine using MATLAB 2018b and has not been tested on other platforms or earlier versions of MATLAB.
+DO-DAT is mainly developed on a __Windows__ machine using __MATLAB 2018b__ and has not been tested on other platforms or earlier versions of MATLAB.
 If you have any problems including version issues, please [contact](https://do-dat.github.io/contact/).
