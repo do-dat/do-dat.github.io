@@ -20,7 +20,7 @@ author_profile: false
 
   - `./DO_DAT/operators` directory includes several basic operators used in the main functions (You don't need to look into this directory!).
 
-To test your installation, run the example code `/DO_DAT/functions/main.m`.
+To test your installation, run the sample code `/DO_DAT/functions/main.m`.
 
 DO-DAT is mainly developed on a __Windows__ machine using __MATLAB 2018b__ and has not been tested on other platforms or earlier versions of MATLAB.
 If you have any problems including version issues, please [contact](https://do-dat.github.io/contact/).
