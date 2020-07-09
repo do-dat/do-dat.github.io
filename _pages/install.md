@@ -20,4 +20,4 @@ __`./DO_DAT/functions` directory contains main functions of DO-DAT__.
 4. To test your installation, run the example code `/DO_DAT/functions/main.m`.
 
 DO-DAT is mainly developed on a Windows machine using MATLAB 2018b and has not been tested on other platforms or earlier versions of MATLAB.
-If you have any problems including version issues, please contact.
+If you have any problems including version issues, please [contact](https://do-dat.github.io/contact/).
