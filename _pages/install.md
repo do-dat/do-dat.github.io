@@ -7,7 +7,7 @@ author_profile: false
 
 1. Remove any old version of DO-DAT.
 
-2. Unzip the downloaded DO-DAT.zip file.
+2. Unzip the downloaded DO_DAT.zip file.
 
 3. Add the following directories to your MATLAB path.
 
