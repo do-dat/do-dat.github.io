@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 <figure>
-  <img src="/assets/images/me.jpg" width="60%" height="60%">
+  <img src="/assets/images/me.jpg" width="40%" height="40%">
 </figure>
 
 I received my B.S. in Electrical and Computer Engineering from Seoul National University in 2019. Since 2019 i have been at Seoul National University, Seoul, Korea, where i am currently a M.S. candidate in the school of Electrical and Computer Engineering. My research interest is on disturbance observer.
