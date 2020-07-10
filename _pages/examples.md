@@ -1,6 +1,7 @@
 ---
 title: "Examples"
 permalink: /examples/
-layout: categories
+layout: tags
+<!-- layout: categories -->
 author_profile: false
 ---
