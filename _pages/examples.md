@@ -1,5 +1,5 @@
 ---
-title: "Examples"
+title: "Love"
 permalink: /examples/
 layout: tags
 <!-- layout: categories -->
