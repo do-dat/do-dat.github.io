@@ -1,6 +1,7 @@
 ---
 title: "Non-minimum phase case"
 date: 2020-07-20T15:34:30-04:00
+author_profile: false
 categories:
   - Examples
 ---
