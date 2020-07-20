@@ -47,7 +47,7 @@ Qcanon = tf(1, [1, 1]);
 isFastDynamicsStable(sysEnv, Qcanon)
 ```
 
-After several trials and errors like the following code, you can find out that at least ![equation](https://latex.codecogs.com/gif.latex?\tau&space;=&space;0.21) robustly stabilizes the closed-loop system.
+After several trials and errors like the following code (Unfortunately, systematic ways do not yet exist.), you can find out that at least ![equation](https://latex.codecogs.com/gif.latex?\tau&space;=&space;0.21) robustly stabilizes the closed-loop system.
 
 ```
 isValidTau(sysEnv, Qcanon, 0.18)
