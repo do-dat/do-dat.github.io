@@ -13,7 +13,7 @@ It is assumed that in the figure,
 - ![equation](https://latex.codecogs.com/gif.latex?P_n(s)&space;=&space;(s^2&plus;s&plus;5)/(s^3&plus;3s^2&plus;3s&plus;1)),
 - ![equation](https://latex.codecogs.com/gif.latex?P(s)&space;=&space;(s^2&plus;\beta_1&space;s&space;&plus;&space;5)/(s^3&plus;3s^2&plus;3s&plus;1)), 
 where ![equation](https://latex.codecogs.com/gif.latex?-0.2\leq&space;\beta_1&space;\leq&space;2),
-- ![equation](https://latex.codecogs.com/gif.latex?Q(s;1)&space;=&space;1/(\tau&space;s&space;&plus;&space;1))
+- ![equation](https://latex.codecogs.com/gif.latex?Q(s;1)&space;=&space;1/(\tau&space;s&space;&plus;&space;1)).
 
 ### Setup
 
@@ -56,8 +56,7 @@ isValidTau(sysEnv, Qcanon, 0.20)
 isValidTau(sysEnv, Qcanon, 0.21)
 ```
 
-
 In conclusion, DO-DAT suggests you to use the Q-filter for the robust stability of the closed-loop system as follows.
-This result does not guarantee any level of performance in terms of disturbance rejection, but you can notice that  
+Although this result does not guarantee any level of performance in terms of disturbance rejection, you can notice that DOB is still available for non-minimum phase plant.
 
 ![equation](https://latex.codecogs.com/gif.latex?Q(s;\tau)&space;=&space;\frac{0.5}{(\tau&space;s)^3&plus;2(\tau&space;s)^2&plus;&space;(\tau&space;s)&space;&plus;&space;0.5}) , for any ![equation](https://latex.codecogs.com/gif.latex?0<\tau<0.0232).
