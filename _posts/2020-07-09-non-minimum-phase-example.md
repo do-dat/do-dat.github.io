@@ -59,4 +59,4 @@ isValidTau(sysEnv, Qcanon, 0.21)
 In conclusion, DO-DAT suggests you to use the Q-filter for the robust stability of the closed-loop system as follows.
 Although this result does not guarantee any level of performance in terms of disturbance rejection, you can notice that DOB is still available for non-minimum phase plant.
 
-![equation](https://latex.codecogs.com/gif.latex?Q(s;\tau)&space;=&space;\frac{0.5}{(\tau&space;s)^3&plus;2(\tau&space;s)^2&plus;&space;(\tau&space;s)&space;&plus;&space;0.5}) , for any ![equation](https://latex.codecogs.com/gif.latex?0<\tau<0.0232).
+![equation](https://latex.codecogs.com/gif.latex?Q(s;1)&space;=&space;1/(\tau&space;s&space;&plus;&space;1)), for ![equation](https://latex.codecogs.com/gif.latex?\tau&space;=&space;0.21).
