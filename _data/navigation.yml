@@ -5,6 +5,8 @@ main:
     url: /install/
   - title: "Examples"
     url: /examples/
+  - title: "Reference"
+    url: /reference/
   - title: "Contact"
     url: /contact/
   - title: "CDSL"
