@@ -11,4 +11,4 @@ title: "Control and Dynamic Systems Lab"
 
 ### Research Interest
 
-Our lab has been working on various fields of control theory. You can visit [here](https://post.cdsl.kr/archives/category/research) for more details.
+The lab has been working on various fields of control theory. You can visit [here](https://post.cdsl.kr/archives/category/research) for more details.
