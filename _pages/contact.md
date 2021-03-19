@@ -10,7 +10,8 @@ author_profile: true
 </figure>
 -->
 
-I received my B.S. in Electrical and Computer Engineering from Seoul National University, Seoul, Korea in 2019. Since 2019, I have been at Seoul National University where I am currently a M.S. candidate in the school of Electrical and Computer Engineering. I am interested in robust control techniques, including disturbance observer.
+I received my B.S. and M.S. degrees in Electrical and Computer Engineering from Seoul National University, Korea in 2019 and 2021, respectively. Since 2021, I have been at Seoul National University where I am currently a Ph.D. candidate. I am interested in robust control techniques including disturbance observer and data-driven control.
+
 
 All suggestions, comments, and bug reports on DO-DAT are very welcome.
 ### e-mail: hmchang@cdsl.kr
